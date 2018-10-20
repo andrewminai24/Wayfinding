@@ -1,0 +1,6 @@
+{
+  "appId": "com.Wayfindingteam.wayfinding",
+  "appName": "Wayfinding",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

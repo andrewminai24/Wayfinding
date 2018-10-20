@@ -1,0 +1,24 @@
+{
+  "name": "wayfindingrooms",
+  "version": "1.0.0",
+  "description": "WAYFINDING :HELPING STUDENTS GET TO CLASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewminai24/Wayfinding.git"
+  },
+  "author": "Matthew and Andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewminai24/Wayfinding/issues"
+  },
+  "homepage": "https://github.com/andrewminai24/Wayfinding#readme",
+  "dependencies": {
+    "@capacitor/cli": "^1.0.0-beta.8",
+    "@capacitor/core": "^1.0.0-beta.8",
+    "@capacitor/ios": "^1.0.0-beta.8"
+  }
+}
